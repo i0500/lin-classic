@@ -1,0 +1,4 @@
+{
+  "_note": "배너 등록 방법: banners 배열에 항목 추가. image=배너 이미지 URL(이 저장소 ads/ 에 올린 raw URL 또는 외부 URL), link=클릭 시 열 주소, alt=설명. 저장하면 앱이 다음 실행/30분 주기로 자동 반영. 문의 i0500ch@gmail.com",
+  "banners": []
+}
