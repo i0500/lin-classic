@@ -2,7 +2,7 @@
   "_note": "배너 등록: banners 배열에 {image, link, alt} 추가. image=배너 이미지 URL(이 저장소 ads/ 에 올린 raw URL 또는 외부 URL, gif 애니메이션 지원), link=클릭 시 열 주소(빈 값이면 클릭 비활성), alt=설명. 저장하면 앱이 다음 실행/30분 주기로 자동 반영. 문의 i0500ch@gmail.com",
   "banners": [
     {
-      "image": "https://raw.githubusercontent.com/i0500/lin-classic/main/ads/classic_supporter_v2.gif",
+      "image": "https://raw.githubusercontent.com/i0500/lin-classic/main/ads/classic_supporter_v3.gif",
       "link": "https://blog.naver.com/ii0500/224314685943",
       "alt": "Classic Supporter — 일반 보조형 서포터"
     }
